@@ -1,4 +1,4 @@
-# Purwadhika
+# Project Management SPIP Pada Perusahaan
 Kegiatan pertambangan memerlukan berbagai fasilitas penunjang berupa Sarana, Prasarana, Instalasi, dan Peralatan Pertambangan (SPIP) yang harus dipastikan kelayakannya untuk digunakan. Untuk itu, perusahaan pertambangan membutuhkan aplikasi Manajemen SPIP guna mempermudah pengelolaan fasilitas tersebut, sehingga proses monitoring kelayakan setiap SPIP di wilayah operasional menjadi lebih efektif dan efisien.
 
 Aplikasi ini memungkinkan pengguna untuk:
