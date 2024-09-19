@@ -18,39 +18,10 @@ Dengan aplikasi ini, perusahaan diharapkan dapat mengelola SPIP di seluruh wilay
 4. Memperbarui SPIP: Pilih SPIP berdasarkan No SPIP dan update data yang diperlukan.
 5. Mengapus SPIP: Pilih SPIP berdasarkan No SPIP dan update data yang diperlukan.
 
-## Instalasi
-
 ## Penggunaan
-### Contoh output setelah menjalankan main.py
-Masukkan No SPIP: BM-02
-
-Pilih kategori dari daftar di atas: Sarana
-
-Pilih subkategori dari daftar di atas: Transportasi Darat
-
-Pilih jenis dari daftar di atas: Manhaul
-
-Masukkan Status: Aktif
-
-## Struktur Proyek
+![Screenshot 2024-09-19 200401](https://github.com/user-attachments/assets/acf7373e-9dfd-4900-ad4c-287199663a25)
 
 
-## Kontribusi
-Kontribusi sangat kami hargai! Untuk berkontribusi, ikuti langkah-langkah berikut:
 
-1.Fork repository ini.
 
-2. Buat branch baru untuk fitur atau perbaikan Anda:
-    git checkout -b fitur-baru
-
-3. Commit perubahan Anda:
-    git commit -m "Menambahkan fitur baru"
-
-4. Push ke branch Anda:
-    git push origin fitur-baru
-
-5. Buat Pull Request di GitHub
-
-## Lisensi
-Proyek ini dilisensikan di bawah lisensi MIT - lihat file LICENSE untuk informasi lebih lanjut.
 
